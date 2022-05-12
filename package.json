@@ -82,6 +82,8 @@
         "tdesign-vue",
         "tdesign-vue/es/button/style",
         "tdesign-vue/es/menu/style",
+        "tdesign-vue/es/steps/style",
+        "tdesign-vue/es/switch/style",
         "tdesign-vue/es/tag/style",
         "vue",
         "vue-router",

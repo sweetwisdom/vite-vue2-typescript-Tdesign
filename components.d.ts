@@ -13,6 +13,9 @@ declare module '@vue/runtime-core' {
     TButton: typeof import('tdesign-vue')['Button']
     THeadMenu: typeof import('tdesign-vue')['HeadMenu']
     TMenuItem: typeof import('tdesign-vue')['MenuItem']
+    TStepItem: typeof import('tdesign-vue')['StepItem']
+    TSteps: typeof import('tdesign-vue')['Steps']
+    TSwitch: typeof import('tdesign-vue')['Switch']
     TTag: typeof import('tdesign-vue')['Tag']
   }
 }

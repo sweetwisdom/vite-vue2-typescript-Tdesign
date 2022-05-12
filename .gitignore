@@ -33,3 +33,4 @@ yarn.lock
 *.njsproj
 *.sln
 *.sw*
+components.d.ts
