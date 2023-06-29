@@ -3,7 +3,6 @@
     "target": "esnext",
     "module": "esnext",
     "strict": true,
-  
     "jsx": "preserve",
     "importHelpers": true,
     "moduleResolution": "node",
@@ -20,9 +19,7 @@
       "unplugin-vue2-script-setup/types"
     ],
     "paths": {
-        "@/*": [
-            "./src/*"
-        ]
+      "@/*": ["./src*"]
     },
     "lib": ["esnext", "dom", "dom.iterable", "scripthost"]
   },

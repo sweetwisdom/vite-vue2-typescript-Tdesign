@@ -1,11 +1,5 @@
 # vite-vue2-typescript
 
-![image-20220512135336593](./.imgs/image-20220512135336593.png)
-
-## TDesign home
-
-> https://tdesign.tencent.com/vue/components/steps
-
 Vite Vue2 typescript starter template using composition-api with Script Setup!
 
 ## Features
@@ -24,22 +18,20 @@ Vite Vue2 typescript starter template using composition-api with Script Setup!
 
 ### Plugins
 
-- [`vue/compositon-api`](https://github.com/vuejs/composition-api) Composition API plugin
-  for Vue 2
+- [`vue/compositon-api`](https://github.com/vuejs/composition-api) Composition API plugin for Vue 2
 
 - [`VueUse`](https://github.com/antfu/vueuse) - collection of useful composition APIs
 
 - [`vite-plugin-pages`](https://github.com/hannoeru/vite-plugin-pages) - file system based
   routing
 
-- [`vite-plugin-vue-layouts`](https://github.com/anncwb/vite-plugin-style-import) Vue
-  layout plugin for Vite
+- [`vite-plugin-vue-layouts`](https://github.com/anncwb/vite-plugin-style-import) Vue layout plugin for Vite
 
-- [`vite-plugin-style-import`](https://github.com/anncwb/vite-plugin-style-import) A
-  plug-in that imports component library styles on demand
+- [`vite-plugin-style-import`](https://github.com/anncwb/vite-plugin-style-import) A plug-in
+  that imports component library styles on demand
 
-- [`vue2-helper`](https://github.com/ambit-tsai/vue2-helpers) - A util package to use Vue
-  2 with Composition API easily
+- [`vue2-helper`](https://github.com/ambit-tsai/vue2-helpers) - A util package to use Vue 2 with Composition API easily
+
 
 ## Usage
 
@@ -53,8 +45,7 @@ yarn dev
 
 ## Commit lint
 
-This repo use `commitizen` , if run `git cz` has no effect, you might need to install
-commitizen global as `yarn add global commitizen` or `npm i -g commitizen`
+This repo use `commitizen` , if run `git cz` has no effect, you might need to install commitizen global as `yarn add global commitizen` or `npm i -g commitizen`
 
 then use `git cz` to add commit information.
 
@@ -65,5 +56,3 @@ And enjoy!
 ### Thanks
 
 - [vitesse](https://github.com/antfu/vitesse) Opinionated Vite Starter Template
-
-![image-20220512125210814](./.imgs/image-20220512125210814.png)
